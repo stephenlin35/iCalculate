@@ -1,5 +1,5 @@
 # iCalculate
-My own twist of the Apple's calculator app. This app makes use of Auto Layout to format the view items so that they fit on any screen size, or device orientation. Also, decorated in a dark-colored theme that anyone can enjoy.
+My own twist of the Apple's calculator app. This app makes use of Auto Layout to format the view items so that they fit on any screen size, or device orientation. In portrait mode, this calculator supplies basic mathematical functions for quick and easy calculations. Landscape mode allows for much more functionality to number crunch. Also, decorated in a dark-colored theme that anyone can enjoy.
 
 <p>Screenshot of the app in portrait orientation on iPhone 6:</p>
 <p align="center">
@@ -11,7 +11,7 @@ My own twist of the Apple's calculator app. This app makes use of Auto Layout to
 <img width="670" alt="screen shot 2017-02-10 at 10 55 07 pm" src="https://cloud.githubusercontent.com/assets/12617861/22851136/0f7c146e-efe7-11e6-8ee4-2fdc1f8cb5f3.png">
 </p>
 
-## Built with
+## Built With
 - Xcode 7.2.1
 - Swift 2.0
 
